@@ -15,10 +15,6 @@ class SearchBar extends Component {
       </div>
     );
   }
-
-  onInputChange(event) {
-    this.setState({ term: event.target.value });
-  }
 }
 
 export default SearchBar;
