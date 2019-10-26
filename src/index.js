@@ -5,7 +5,7 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
-const API_KEY = 'AIzaSyD9TNdVPFKQLxHodTgzNxuWLeArUPcK8RM';
+const API_KEY = 'AIzaSyB9QNYIV8UPw-l8pUSV6vivd-944HrArXI';
 
 // Create a new component. This component should produce HTML
 class App extends Component {
